@@ -1,0 +1,1 @@
+-tickrate 128 +fps_max 0 -novid  -high -threads 6 -fullscreen -refresh 144 -nojoy +r_emulate_g
